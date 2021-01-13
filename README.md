@@ -7,3 +7,5 @@
 |01.11|1차 EDA 전처리||
 |01.12|2차 EDA 전처리||
 ||[BMI 지수를 적용하고 10-13년도와 14-17년도까지의 칼럼 동일화](https://github.com/gini7752/AI_project/blob/main/data/README.md)||
+|01.13|모델링||
+||LinearRegression, RandomForest, DNN 모델 제작 |DNN 모델에서 에러 발생하여 미해결|
