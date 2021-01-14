@@ -57,3 +57,6 @@ def change_col(A):
   A["sod_02z1"] = A["sod_02z2"]
   del A["sod_02z2"]
 ```
+
+## 상관관계 분석
+![상관관계](https://user-images.githubusercontent.com/76692294/104595447-fbe39f00-56b5-11eb-91a8-ce9f5252c2fa.png)
