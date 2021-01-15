@@ -30,7 +30,6 @@
 - 1 : 저체중
 - 2 : 정상
 - 3 : 비만
-```
 
 ## 일지
 |Date|Description|Official source(참고 주소)|
